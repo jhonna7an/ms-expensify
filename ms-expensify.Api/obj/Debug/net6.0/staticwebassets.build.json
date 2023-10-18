@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3u+U6LtY3aGnT5y4FyjPuKDc1V+sQLqFij0N3l6Iw0w=",
+  "Source": "ms-expensify.Api",
+  "BasePath": "_content/ms-expensify.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

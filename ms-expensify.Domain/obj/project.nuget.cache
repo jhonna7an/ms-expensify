@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzvpdnqCOarbTnJYT4iRqLWKzakTj384VPk1OjjJzeGTVEGul1Qfk5Dc4UpgqDiVHltDbHkK+BKhDYgLcFy/ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhonn\\Desktop\\Repositories\\expensify\\ms-expensify\\ms-expensify.Domain\\ms-expensify.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhonn\\.nuget\\packages\\goof.domain.classes\\1.5.1\\goof.domain.classes.1.5.1.nupkg.sha512",
+    "C:\\Users\\jhonn\\.nuget\\packages\\system.linq.dynamic.core\\1.3.3\\system.linq.dynamic.core.1.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
