@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ms-expensify.Applicaiton\ms-expensify.Application.csproj" />
-    <ProjectReference Include="..\ms-expensify.Infraestrtucture\ms-expensify.Infraestructure.csproj" />
+    <ProjectReference Include="..\ms-expensify.Application\ms-expensify.Application.csproj" />
+    <ProjectReference Include="..\ms-expensify.Infraestructure\ms-expensify.Infraestructure.csproj" />
   </ItemGroup>
 
 </Project>
