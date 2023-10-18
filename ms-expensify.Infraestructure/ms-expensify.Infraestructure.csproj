@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ms-expensify.Applicaiton\ms-expensify.Application.csproj" />
     <ProjectReference Include="..\ms-expensify.Application\ms-expensify.Application.csproj" />
   </ItemGroup>
 
